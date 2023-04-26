@@ -10,6 +10,23 @@ Conforme explico nos vídeos, baixe os arquivos grandes (instalações) um por u
 Google Drive
 https://drive.google.com/drive/folders/1upptBycwfO9eMKTwFw8XjAbn5iF58wNH
 
+
+Downloads dos Softwares - Opção 02 - Servidor Próprio
+
+Links para Downloads
+
+Aqui você encontra o link para Download de TODOS os softwares e scripts que você viu na aula anterior!
+
+Não faça o download da pasta inteira de uma vez pois é certo que dê falha.
+
+Baixe programa por programa que você deseja instalar!
+
+
+https://www.dropbox.com/sh/8wxp9dyg0xoyf04/AACPu9jTJPsZhT5UOUispGtma?dl=0
+
+
+
+
 English Version
 
 Downloads on Google Drive
@@ -21,3 +38,14 @@ As I explain in the videos, download the large files (installations) one by one.
 
 Google Drive
 https://drive.google.com/drive/folders/1upptBycwfO9eMKTwFw8XjAbn5iF58wNH
+
+
+Software Downloads - Option 02 - Self-hosted Server
+
+Links to Downloads
+
+Here you can find the link to download ALL the software and scripts you saw in the previous class!
+
+Do not download the entire folder at once as it is certain to fail.
+
+Download each program that you wish to install individually!

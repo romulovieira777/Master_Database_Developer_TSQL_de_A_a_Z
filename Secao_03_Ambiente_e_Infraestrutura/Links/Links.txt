@@ -1,2 +1,8 @@
 SSMS
 https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+
+GitHub Microsoft SQL Server
+https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/adventure-works
+
+AdventureWorks
+https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms

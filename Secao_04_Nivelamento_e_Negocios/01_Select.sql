@@ -1,0 +1,45 @@
+/* GO, BATHCHES E SCRIPTS */
+SELECT
+	*
+FROM
+	[AdventureWorksDW2017].[dbo].[DimAccount]
+GO
+
+
+SELECT
+	*
+FROM
+	[AdventureWorksDW2017].[dbo].[DimDate]
+GO
+
+
+SELECT
+	*
+FROM
+	[AdventureWorksDW2017].[dbo].[DimProduct]
+WHERE
+	Size = 'M'
+GO
+
+
+/*
+ATALHOS UTEIS
+
+CONTROL + R -> OCULTA PAINEL DE RESULTADO DA QUERY
+
+F5 -> EXECUTA A QUERY
+*/
+
+CREATE DATABASE
+	CARRO
+GO
+
+USE
+	CARRO
+GO
+
+CREATE TABLE CORES (
+	IDCOR INT
+  , NOME VARCHAR(30)
+)
+GO

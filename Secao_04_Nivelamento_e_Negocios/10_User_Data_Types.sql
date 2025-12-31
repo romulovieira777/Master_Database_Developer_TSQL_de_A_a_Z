@@ -1,0 +1,7 @@
+-- UDT
+
+SELECT
+    *
+FROM
+    SYS.TYPES
+GO

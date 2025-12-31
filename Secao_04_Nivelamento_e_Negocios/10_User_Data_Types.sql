@@ -5,3 +5,50 @@ SELECT
 FROM
     SYS.TYPES
 GO
+
+
+/***** Object: UserDefinedDataType [dbo].[Flag]    Script Date: 06/14/2024 09:45:32 ***** ******/
+CREATE TYPE [dbo].[Flag2] FROM [bit] NOT NULL
+GO
+
+CREATE TYPE [dbo].[Flag3] FROM [bit]
+GO
+
+
+SELECT
+    *
+FROM
+    SYS.COLUMNS
+GO
+
+
+SELECT
+    *
+FROM
+    SYS.COLUMNS
+WHERE
+    SYSTEM_TYPE_ID <> USER_TYPE_ID
+GO
+
+
+SELECT
+    *
+FROM
+    SYS.COLUMNS
+WHERE
+    USER_TYPE_ID = 258
+GO
+
+
+-- UTILIZANDO A FUNCAO OBJECT_NAME
+SELECT
+    OBJECT_NAME(482100758)
+  , *
+FROM
+    SYS.COLUMNS
+WHERE
+    USER_TYPE_ID = 258
+GO
+
+
+-- REFERENCIA - NOME(VARCHAR(50)) --> PONTEIRO
